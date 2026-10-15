@@ -91,18 +91,48 @@ machines/
 
 ## `stats.json`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JXAB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0B0E14&title_color=22D3EE&text_color=F8FAFC&icon_color=F97316&border_color=1E293B"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JXAB&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1d1d1f&text_color=1d1d1f&icon_color=0071e3&border_color=d2d2d7&border_radius=12&hide_border=false"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JXAB&show_icons=true&include_all_commits=true&count_private=true&bg_color=1d1d1f&title_color=f5f5f7&text_color=a1a1a6&icon_color=0a84ff&border_color=424245&border_radius=12&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JXAB&show_icons=true&include_all_commits=true&count_private=true&bg_color=1d1d1f&title_color=f5f5f7&text_color=a1a1a6&icon_color=0a84ff&border_color=424245&border_radius=12" alt="GitHub Stats" />
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXAB&layout=compact&langs_count=8&theme=tokyonight&bg_color=0B0E14&title_color=22D3EE&text_color=F8FAFC&border_color=1E293B"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JXAB&layout=compact&langs_count=8&bg_color=00000000&title_color=1d1d1f&text_color=1d1d1f&border_color=d2d2d7&border_radius=12&hide_border=false"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JXAB&layout=compact&langs_count=8&bg_color=1d1d1f&title_color=f5f5f7&text_color=a1a1a6&border_color=424245&border_radius=12&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXAB&layout=compact&langs_count=8&bg_color=1d1d1f&title_color=f5f5f7&text_color=a1a1a6&border_color=424245&border_radius=12" alt="Top Languages" />
+</picture>
 
 ### `uptime`
 
-```bash
-Member since    : 2026-09-15
-Active days     : 30+
-Commits (2026)  : Building...
-Current focus   : Infrastructure Automation
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Member_Since-2026--09--15-1d1d1f?style=flat-square&labelColor=f5f5f7&color=0a84ff" alt="Member Since"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Active_Days-30+-1d1d1f?style=flat-square&labelColor=f5f5f7&color=34c759" alt="Active Days"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Focus-Infrastructure-1d1d1f?style=flat-square&labelColor=f5f5f7&color=ff9f0a" alt="Focus"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Status-Building-1d1d1f?style=flat-square&labelColor=f5f5f7&color=ff375f" alt="Status"/>
+</td>
+</tr>
+</table>
 
 </div>
 
