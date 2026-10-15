@@ -76,26 +76,32 @@ bash install.sh backup     # Backup configs
 <img src="https://img.shields.io/badge/Private-🔒-8250df?style=flat-square" />
 </h3>
 
-Complete server backup solution. Archive system configs, services, and files before migration or rebuild.
+Complete server backup solution with automated collection scripts and restore playbooks.
 
-**What's Backed Up:**
-- 📋 Service inventory & documentation
-- ⚙️ Configuration files (`/etc`)
-- 📊 System snapshots (packages, ports, cron)
-- 🗜️ Full archives with SHA256 verification
+**Latest Backup (2026-10-15):**
+- 🔧 System configs (33 KB): fstab, hosts, sysctl, apt, ssh
+- ⚙️ Services (2.1 KB): Shadowsocks, UFW, Cron
+- 📜 Scripts (42 KB): /root and /usr/local/bin
+- 🔐 Security (68 KB): iptables, SSH keys, GPG
+- 📄 Logs (19 KB): syslog, auth, kernel, shadowsocks
+- 💾 Data (3.2 MB): /home/devs full archive
 
 <sub>
-<img src="https://img.shields.io/badge/Machines-1-8250df?style=flat-square" />
-<img src="https://img.shields.io/badge/Last_Update-2026--10--15-8250df?style=flat-square" />
-<img src="https://img.shields.io/badge/Archives-28_MB-6e7781?style=flat-square" />
+<img src="https://img.shields.io/badge/Total-91_files-8250df?style=flat-square" />
+<img src="https://img.shields.io/badge/Size-3.4_MB-8250df?style=flat-square" />
+<img src="https://img.shields.io/badge/Last_Backup-2026--10--15-8250df?style=flat-square" />
 </sub>
 
 <details>
 <summary>🖥️ Backed Up Machines</summary>
 
-| Machine | IP | Services |
-|---------|----|----|
-| **Laa-VM** | 185.118.133.104 | Shadowsocks, V2Ray |
+| Machine | IP | Location | Uptime |
+|---------|----|----|-------|
+| **Laa-VM** | 185.118.133.104 | Los Angeles, US | 147 days |
+
+**Services**: Shadowsocks · BBR · UFW  
+**Resources**: 1C/483MB/15GB · AMD Ryzen 9 3900X  
+**Network**: 748 Mbps ↓ · 0.71ms latency
 
 </details>
 
