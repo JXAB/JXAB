@@ -72,9 +72,8 @@ bash install.sh backup     # Backup configs
 <td width="50%" valign="top">
 
 <h3>
-<a href="https://github.com/JXAB/Server-Information-Backup">
 <img src="https://img.shields.io/badge/💾-Server--Information--Backup-8250df?style=flat" />
-</a>
+<img src="https://img.shields.io/badge/Private-🔒-8250df?style=flat-square" />
 </h3>
 
 Complete server backup solution. Archive system configs, services, and files before migration or rebuild.
@@ -87,8 +86,8 @@ Complete server backup solution. Archive system configs, services, and files bef
 
 <sub>
 <img src="https://img.shields.io/badge/Machines-1-8250df?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JXAB/Server-Information-Backup?style=flat-square&color=8250df" />
-<img src="https://img.shields.io/github/repo-size/JXAB/Server-Information-Backup?style=flat-square&color=6e7781" />
+<img src="https://img.shields.io/badge/Last_Update-2026--10--15-8250df?style=flat-square" />
+<img src="https://img.shields.io/badge/Archives-28_MB-6e7781?style=flat-square" />
 </sub>
 
 <details>
